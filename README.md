@@ -25,7 +25,7 @@ Ordered lists use numbers followed by a period:
 1. First item
 2. Second item
 3. 
-Links: You can create hyperlinks by wrapping the link text in brackets and the URL in parentheses:[OpenAI](https://www.openai.com)
+Links: You can create hyperlinks by wrapping the link text in brackets and the URL in parentheses:[GITS_EXAMPLE](https://gist.github.com/extractor-neural/0e8d5b3c7b470acd0412ba9aa10fead8)
 
 Images: Similar to links, but with an exclamation mark in front:![Alt text](image-url.jpg)
 

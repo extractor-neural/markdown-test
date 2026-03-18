@@ -24,12 +24,11 @@ Unordered lists can be created using asterisks, plus signs, or hyphens:
 Ordered lists use numbers followed by a period:
 1. First item
 2. Second item
-Links: You can create hyperlinks by wrapping the link text in brackets and the URL in parentheses:
+3. 
+Links: You can create hyperlinks by wrapping the link text in brackets and the URL in parentheses:[OpenAI](https://www.openai.com)
 
-[OpenAI](https://www.openai.com)
-Images: Similar to links, but with an exclamation mark in front:
+Images: Similar to links, but with an exclamation mark in front:![Alt text](image-url.jpg)
 
-![Alt text](image-url.jpg)
 Code: For inline code, wrap the text in backticks:
 `code`
 For code blocks, use triple backticks:

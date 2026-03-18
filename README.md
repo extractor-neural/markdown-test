@@ -27,7 +27,7 @@ Ordered lists use numbers followed by a period:
 3. 
 Links: You can create hyperlinks by wrapping the link text in brackets and the URL in parentheses:[GITS_EXAMPLE](https://gist.github.com/extractor-neural/0e8d5b3c7b470acd0412ba9aa10fead8)
 
-Images: Similar to links, but with an exclamation mark in front:![Alt text](image-url.jpg)
+Images: Similar to links, but with an exclamation mark in front:![sunny_day.jpg](https://github.com/extractor-neural/markdown-test/issues/1#issue-4097645831)
 
 Code: For inline code, wrap the text in backticks:
 `code`
